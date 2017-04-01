@@ -3,7 +3,7 @@ An earlier version of the Talos Spartan X carriage was not providing enough supp
 
 Here is a two piece fix that was created in [onshape]
 
-[[img src=heatsink support.jpeg]]
+[[img src=heatsink-support.jpeg]]
 
 
  
