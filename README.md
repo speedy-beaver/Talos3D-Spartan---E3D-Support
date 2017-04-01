@@ -1,11 +1,12 @@
 # Support for E3D v6 Heatsink in Earlier Revision Talos Spartan X Carriage
 An earlier version of the Talos Spartan X carriage was not providing enough support for the E3Dv6 heatsink so the  hot-end assembly was able to shake in the carriage plate
 
-Here is a two piece fix that was created in [onshape](http://www.onshape.com) [here](https://cad.onshape.com/documents/3b513f7c7b359355e0b39899/w/374ca0d62142e456f9c6a1b5/e/b6972f3827a6391c4386dd05) are the design files
+Here is a two piece fix that was created in [onshape](http://www.onshape.com)
+[Here](https://cad.onshape.com/documents/3b513f7c7b359355e0b39899/w/374ca0d62142e456f9c6a1b5/e/b6972f3827a6391c4386dd05) are the design files
 ![Design View](shims-design-view.png)
 
 
-The small piece is used to support the heatsink agains the carriage plate, the bigger piece keeps the small piece in place.
+The small piece is used to support the heatsink, the bigger piece keeps the small piece in place.
 
 ![Installed Shims](heatsink-support.jpeg)
 
